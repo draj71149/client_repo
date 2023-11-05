@@ -1,3 +1,6 @@
+# this is for submission according to client
+
+
 import time
 
 class GroupExpenseCalculator:
@@ -5,7 +8,6 @@ class GroupExpenseCalculator:
         self.groups = {}
 
     def run(self):
-        while True:
             print("Welcome to Group Expense Calculator")
             print("1. Add the expense")
             print("2. Calculate debts")
